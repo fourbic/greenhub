@@ -1,34 +1,6 @@
-CKAN: The Open Source Data Portal Software
+Greenhub
 ==========================================
 
-.. image:: https://img.shields.io/badge/license-AGPL-blue.svg?style=flat
-    :target: https://opensource.org/licenses/AGPL-3.0
-    :alt: License
-
-.. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat
-    :target: http://docs.ckan.org
-    :alt: Documentation
-.. image:: https://img.shields.io/badge/support-StackOverflow-yellowgreen.svg?style=flat
-    :target: https://stackoverflow.com/questions/tagged/ckan
-    :alt: Support on StackOverflow
-
-.. image:: https://circleci.com/gh/ckan/ckan.svg?style=shield
-    :target: https://circleci.com/gh/ckan/ckan
-    :alt: Build Status
-
-.. image:: https://coveralls.io/repos/github/ckan/ckan/badge.svg?branch=master
-    :target: https://coveralls.io/github/ckan/ckan?branch=master
-    :alt: Coverage Status
-
-.. image:: https://badges.gitter.im/gitterHQ/gitter.svg
-    :target: https://gitter.im/ckan/chat
-    :alt: Chat on Gitter
-
-**CKAN is the world’s leading open-source data portal platform**.
-CKAN makes it easy to publish, share and work with data. It's a data management
-system that provides a powerful platform for cataloging, storing and accessing
-datasets with a rich front-end, full API (for both data and catalog), visualization
-tools and more. Read more at `ckan.org <http://ckan.org/>`_.
 
 
 Installation
